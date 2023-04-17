@@ -1,3 +1,3 @@
-class Model:
-    num1 = 0
-    num2 = 0
+class View:
+    num1 = input()
+    num2 = input()
